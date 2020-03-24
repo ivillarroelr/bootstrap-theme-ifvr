@@ -1,0 +1,23 @@
+/*
+* TITILUM FONT
+*/
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+header{
+    margin-top: 75px;
+}
+
+#testimonial{
+    background-color: #f1f1f1;
+    padding: 30px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer{
+    background: url('../img/smartphones.png');
+}
